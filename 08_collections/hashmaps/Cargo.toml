@@ -1,0 +1,6 @@
+[package]
+name = "hashmaps"
+version = "0.1.0"
+authors = ["Safronov Michail <msaf1980@gmail.com>"]
+
+[dependencies]
